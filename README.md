@@ -1,4 +1,4 @@
-# Best practices in data visualization - ASPP 2022
+# Best practices in data visualization - ASPP 2023 LATAM
 
 ## Content
 
