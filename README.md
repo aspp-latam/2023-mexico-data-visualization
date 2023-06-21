@@ -4,12 +4,9 @@
 
 * **[Best practice in data visualization (slides)](slides.pdf)** [(here slides with notes)](slides-notes.pdf). Slides accompanying the tutorial, together with some written notes.
 
-* **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). In this
-    introduction, we'll see how to make a figure and play with the
-    different settings such as to improve the rendering. We learn how to use style sheets, and how to fine tune your plot. 
-    We also learn how to make a figure composed by several subplots.
+* **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). Here we go beyond matplotlib's defaults and fine tune the details so to  make a figure *publication-ready*.
 
-* **[Exercise 2: Which visualization should I use?](exercise-2.ipynb)** (**notebook**). In this exercise you are given a dataset and you're asked to think, decide and implement a data visualization that will best answer a research question. 
+* **[Exercise 2: Which visualization should I use?](exercise-2.ipynb)** (**notebook**). In this exercise you are given a dataset and you're asked to think, decide and implement a data visualization that will best answer a research question. Applying what was learned in the previous exercise, you should come up with a figure that is *publication-ready*.
 
 * **[Exercise 3: Working with images](exercise-3.ipynb)** (**notebook**). Here you will learn how to visualize data as images.
 
