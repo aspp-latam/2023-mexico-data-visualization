@@ -10,7 +10,7 @@
 
 * **[Exercise 3: Working with images](exercise-3.ipynb)** (**notebook**). Here you will learn how to visualize data as images.
 
-
+---
 
 ## Extra-Material (from ASPP-2021)
 
