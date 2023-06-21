@@ -6,7 +6,7 @@
 
 * **[Exercise 1: Mastering matplotlib](exercise-1.ipynb)** (**notebook**). Here we go beyond matplotlib's defaults and fine tune the details so to  make a figure *publication-ready*.
 
-* **[Exercise 2: Which visualization should I use?](exercise-2.ipynb)** (**notebook**). In this exercise you are given a dataset and you're asked to think, decide and implement a data visualization that will best answer a research question. Applying what was learned in the previous exercise, you should come up with a figure that is *publication-ready*.
+* **[Exercise 2: Which visualization should I use?](exercise-2.ipynb)** (**notebook**). You are given a dataset and you're asked to decide and implement a data visualization that will best answer a research question. Applying what was learned in the previous exercise, you should come up with a figure that is *publication-ready*.
 
 * **[Exercise 3: Working with images](exercise-3.ipynb)** (**notebook**). Here you will learn how to visualize data as images.
 
