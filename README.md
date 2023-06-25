@@ -39,7 +39,7 @@ At the conceptual level :
 - [**Chart Suggestions - a though-starter**](data/Abelas-Chart-Selection-Diagram.jpg) by A. Abelas.
 - [**Data Visualization Catalogue**](https://datavizcatalogue.com/)
 - **Edward Tufte**'s series of books: [The Visual Display of Quantitative Information (1983)](https://www.edwardtufte.com/tufte/books_vdqi), [Envisioning Information (1990)](https://www.edwardtufte.com/tufte/books_ei), [Beautiful Evidence (2006)](https://www.edwardtufte.com/tufte/books_be), etc.
-- [**Let my dataset change your mindset**](https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset?referrer=playlist-the_best_hans_rosling_talks_yo&autoplay=true), Ted Talk by Hans Rosling.
+- [**Let my dataset change your mindset**](https://www.ted.com/talks/hans_rosling_let_my_dataset_change_your_mindset?referrer=playlist-the_best_hans_rosling_talks_yo&autoplay=true), Ted Talk by [Hans Rosling](https://en.wikipedia.org/wiki/Hans_Rosling).
 
 
 Interactive visualizations:
